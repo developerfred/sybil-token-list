@@ -1,0 +1,56 @@
+[
+  {
+    "decimals": 18,
+    "symbol": "MNE",
+    "name": "Minereum",
+    "address": "0x426CA1eA2406c07d75Db9585F22781c096e3d0E0"
+  },
+  {
+    "decimals": 18,
+    "symbol": "KICK",
+    "name": "Kick Token",
+    "address": "0x824a50df33ac1b41afc52f4194e2e8356c17c3ac"
+  },
+  {
+    "decimals": 18,
+    "symbol": "UNIH",
+    "name": "UNI HODL",
+    "address": "0x4bf5dc91E2555449293D7824028Eb8Fe5879B689"
+  },
+  {
+    "decimals": 18,
+    "symbol": "FF9",
+    "name": "FF9",
+    "address": "0x34278F6f40079eae344cbaC61a764Bcf85AfC949"
+  },
+  {
+    "decimals": 18,
+    "symbol": "Fake168pools",
+    "name": "168pools",
+    "address": "0x7761c09EA2DE3F7205Dba784Fd87Fd196E019D2A"
+  },
+  {
+    "decimals": 18,
+    "symbol": "WUFI",
+    "name": "Wu-Tang Financial",
+    "address": "0x6f0371247d21d7afad6e624f6e8dbb3bff0455c2"
+  },
+  {
+    "decimals": 18,
+    "symbol": "Up1",
+    "name": "Up1",
+    "address": "0xF9d25EB4C75ed744596392cf89074aFaA43614a8"
+  },
+  {
+    "decimals": 18,
+    "symbol": "KTH",
+    "name": "Katerium",
+    "address": "0x0f8b6440a1f7be3354fe072638a5c0f500b044be"
+  },
+  {
+    "decimals": 18,
+    "symbol": "A68",
+    "name": "A68",
+    "address": "0x1412ECa9dc7daEf60451e3155bB8Dbf9DA349933"
+  }
+]
